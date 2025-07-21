@@ -16,7 +16,7 @@ Where:
 - $\( \sigma^z \) and \( \sigma^x \)$ are Pauli matrices
 - $\( J \)$ is the interaction strength (set to 1 by default)
 - $\( h \)$ is the transverse field strength
-- Periodic boundary conditions (PBC) are used
+- Periodic boundary conditions (PBC) is not used
 
 ---
 
