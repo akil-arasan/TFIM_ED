@@ -1,6 +1,6 @@
 # 🧊 1D Transverse Field Ising Model (TFIM) Simulation
 
-This project performs **exact diagonalization** of the **Transverse Field Ising Model (TFIM)** — a key model in quantum many-body physics and quantum computing. The goal is to compute the **ground state energy** and **energy gap** for 1D spin chains of various lengths and transverse field strengths.
+This project performs **exact diagonalization** of the **Transverse Field Ising Model (TFIM)** — a key model in quantum many-body physics and quantum computing. The goal is to compute the **ground state energy** for 1D spin chains of various lengths and transverse field strengths.
 
 ---
 
